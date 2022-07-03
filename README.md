@@ -32,7 +32,7 @@ For Regression Model I have used Lasso, OLS Regression, Linear Regression Algori
 For Classisfication Model, classification of wine was done as low quality and high quality wines after which I have ussed KNeighborsClassifier
 and then calculated misclassification error, Cross-Validation Accuracy Score.
 
-                                                             **Findings for Regression Model**
+**Findings for Regression Model**
 
 **Equation for Linear Reggresion :**
 
@@ -52,5 +52,5 @@ with everything being constant :
 
 So , Density can have very negative effect on the quality of wine .
 
-                                                               **Findings for Classification Model**
+**Findings for Classification Model**
 k = 14 produces the best result with CV error close to 19%. This error is more than what we found before but is more reliable since it's a CV error. 
