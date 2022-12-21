@@ -1,5 +1,7 @@
-# Wine_Quality
-Predict the quality of white wine from the UCI Machine Learning Repository dataset
+# Predict the quality of white wine from the UCI Machine Learning Repository dataset
+
+![image](https://user-images.githubusercontent.com/91350558/208845985-44e7a94a-3c98-4864-b7df-861ece24393f.png)
+
 For this project I plan to build and interpret two models.
 A model to predict Wine Quality score **(a regression model)**.This model will interpret the effect of each feature on quality. 
 For example say for every unit increase in residula sugar the quality goes up by X units, etc.
